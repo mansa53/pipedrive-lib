@@ -4,7 +4,7 @@ pipedrive-python is an API wrapper for [Pipedrive](https://www.pipedrive.com/) w
 
 ## steps to run
 
-Run setup.py
+Run setup.py in the project folder
 
 ```
 python setup.py bdist_wheel
